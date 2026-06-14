@@ -1,0 +1,14 @@
+portfolio.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+*.xlsx
+*.csv
+logs/
+outputs/
+models/
+archive/
+regime_forecast/
+reports/
+*.pdf
