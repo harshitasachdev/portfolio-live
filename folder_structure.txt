@@ -1,0 +1,80 @@
+Folder PATH listing for volume Windows
+Volume serial number is 1437-76E1
+C:.
+¦   folder_structure.txt
+¦   merge_data.ipynb
+¦   
++---.vscode
+¦       PythonImportHelper-v2-Completion.json
+¦       
++---configs
+¦   ¦   config.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---__pycache__
+¦           config.cpython-312.pyc
+¦           __init__.cpython-312.pyc
+¦           
++---data
+¦   ¦   download vvix and vix.ipynb
+¦   ¦   download_vvix_and_vix.py
+¦   ¦   extract_4_factors.ipynb
+¦   ¦   F-F_Momentum_Factor_daily.csv
+¦   ¦   leading_indicators.ipynb
+¦   ¦   leading_indicators_from_lseg.csv
+¦   ¦   Quality_Minus_Junk_Factors_Daily.xlsx
+¦   ¦   refinitive columns amd codes.txt
+¦   ¦   
+¦   +---processed
+¦   ¦   ¦   aligned_etf_target_returns.csv
+¦   ¦   ¦   commodity_X.csv
+¦   ¦   ¦   equity_X.csv
+¦   ¦   ¦   etf_log_returns.csv
+¦   ¦   ¦   etf_target_returns.csv
+¦   ¦   ¦   fixed_income_X.csv
+¦   ¦   ¦   merged_factors.csv
+¦   ¦   ¦   xgboost_equity_panel.csv
+¦   ¦   ¦   
+¦   ¦   +---fama_macbeth
+¦   ¦           etf_labels.csv
+¦   ¦           X_panel.csv
+¦   ¦           y_panel.csv
+¦   ¦           
+¦   +---raw
+¦           1d_etf_prices_06_Jun.csv
+¦           merged_factors.csv
+¦           vix_vvix_data.csv
+¦           wide_format_leading_indicators.csv
+¦           
++---models
+¦   +---xgboost
++---notebooks
++---reports
+¦   +---figures
++---src
+    ¦   data_loader.py
+    ¦   feature_engineering.py
+    ¦   prepare_xgboost_data.py
+    ¦   preprocessing.py
+    ¦   return_calculator.py
+    ¦   __init__.py
+    ¦   
+    +---models
+    ¦   ¦   fama_macbeth.py
+    ¦   ¦   xgboost_trainer.py
+    ¦   ¦   __init__.py
+    ¦   ¦   
+    ¦   +---__pycache__
+    ¦           fama_macbeth.cpython-312.pyc
+    ¦           xgboost_trainer.cpython-312.pyc
+    ¦           __init__.cpython-312.pyc
+    ¦           
+    +---__pycache__
+            data_loader.cpython-312.pyc
+            feature_engineering.cpython-312.pyc
+            model.cpython-312.pyc
+            pipeline.cpython-312.pyc
+            prepare_xgboost_data.cpython-312.pyc
+            return_calculator.cpython-312.pyc
+            __init__.cpython-312.pyc
+            

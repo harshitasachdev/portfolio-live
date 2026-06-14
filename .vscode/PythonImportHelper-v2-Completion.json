@@ -1,0 +1,679 @@
+[
+    {
+        "label": "yfinance",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yfinance",
+        "description": "yfinance",
+        "detail": "yfinance",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "statsmodels.api",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "statsmodels.api",
+        "description": "statsmodels.api",
+        "detail": "statsmodels.api",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "xgboost",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PARAMS",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "PLOT_OUTPUT_DIR",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SPLIT_DATE",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_OUTPUT_DIR",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "LOG_OUTPUT_DIR",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PARAMS",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "PLOT_OUTPUT_DIR",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_OUTPUT_DIR",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "OPTUNA_LOG_PATH",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SPLIT_DATE",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PARAMS",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "PLOT_OUTPUT_DIR",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_OUTPUT_DIR",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "OPTUNA_LOG_PATH",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SPLIT_DATE",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "ROLLING_STANDARDIZE_WINDOW",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "MOMENTUM_LAGS",
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "isExtraImport": true,
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "optuna",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "optuna",
+        "description": "optuna",
+        "detail": "optuna",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "ROLLING_STANDARDIZE_WINDOW",
+        "kind": 5,
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "peekOfCode": "ROLLING_STANDARDIZE_WINDOW = 252  # ~1 year of trading days (can also use 63 for 3-month window)\n# === Momentum Feature Lags ===\nMOMENTUM_LAGS = [1, 5, 20]  # 1-day, 1-week, 1-month lagged returns\n# === Model Parameters for Each Model Type ===\n# MODEL_PARAMS = {\n#     \"ridge\": {\n#         \"alpha\": 1.0\n#     },\n#     \"lasso\": {\n#         \"alpha\": 0.1",
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "MOMENTUM_LAGS",
+        "kind": 5,
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "peekOfCode": "MOMENTUM_LAGS = [1, 5, 20]  # 1-day, 1-week, 1-month lagged returns\n# === Model Parameters for Each Model Type ===\n# MODEL_PARAMS = {\n#     \"ridge\": {\n#         \"alpha\": 1.0\n#     },\n#     \"lasso\": {\n#         \"alpha\": 0.1\n#     },\n#     \"elasticnet\": {",
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PARAMS",
+        "kind": 5,
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "peekOfCode": "MODEL_PARAMS = {\n    \"random_state\": 42,\n    \"n_jobs\": -1\n}\n# === Paths ===\nPLOT_OUTPUT_DIR = \"outputs/plots\"\nMODEL_OUTPUT_DIR = \"models/xgboost\"\nLOG_OUTPUT_DIR = \"logs\"\nOPTUNA_LOG_PATH = \"reports/hyperparameter_log.csv\"\n# === Training Control ===",
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "PLOT_OUTPUT_DIR",
+        "kind": 5,
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "peekOfCode": "PLOT_OUTPUT_DIR = \"outputs/plots\"\nMODEL_OUTPUT_DIR = \"models/xgboost\"\nLOG_OUTPUT_DIR = \"logs\"\nOPTUNA_LOG_PATH = \"reports/hyperparameter_log.csv\"\n# === Training Control ===\nDEFAULT_SPLIT_DATE = \"2024-01-01\"\n# === Feature Engineering Configuration ===\nSTANDARDIZE_FEATURES = True  # set to False to skip rolling_standardize()\n# === Output Paths ===\nALPHA_OUTPUT_PATH = \"outputs/alpha_factors.csv\"",
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_OUTPUT_DIR",
+        "kind": 5,
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "peekOfCode": "MODEL_OUTPUT_DIR = \"models/xgboost\"\nLOG_OUTPUT_DIR = \"logs\"\nOPTUNA_LOG_PATH = \"reports/hyperparameter_log.csv\"\n# === Training Control ===\nDEFAULT_SPLIT_DATE = \"2024-01-01\"\n# === Feature Engineering Configuration ===\nSTANDARDIZE_FEATURES = True  # set to False to skip rolling_standardize()\n# === Output Paths ===\nALPHA_OUTPUT_PATH = \"outputs/alpha_factors.csv\"\n#PLOT_OUTPUT_DIR = \"outputs/\"",
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "LOG_OUTPUT_DIR",
+        "kind": 5,
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "peekOfCode": "LOG_OUTPUT_DIR = \"logs\"\nOPTUNA_LOG_PATH = \"reports/hyperparameter_log.csv\"\n# === Training Control ===\nDEFAULT_SPLIT_DATE = \"2024-01-01\"\n# === Feature Engineering Configuration ===\nSTANDARDIZE_FEATURES = True  # set to False to skip rolling_standardize()\n# === Output Paths ===\nALPHA_OUTPUT_PATH = \"outputs/alpha_factors.csv\"\n#PLOT_OUTPUT_DIR = \"outputs/\"",
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "OPTUNA_LOG_PATH",
+        "kind": 5,
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "peekOfCode": "OPTUNA_LOG_PATH = \"reports/hyperparameter_log.csv\"\n# === Training Control ===\nDEFAULT_SPLIT_DATE = \"2024-01-01\"\n# === Feature Engineering Configuration ===\nSTANDARDIZE_FEATURES = True  # set to False to skip rolling_standardize()\n# === Output Paths ===\nALPHA_OUTPUT_PATH = \"outputs/alpha_factors.csv\"\n#PLOT_OUTPUT_DIR = \"outputs/\"",
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SPLIT_DATE",
+        "kind": 5,
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "peekOfCode": "DEFAULT_SPLIT_DATE = \"2024-01-01\"\n# === Feature Engineering Configuration ===\nSTANDARDIZE_FEATURES = True  # set to False to skip rolling_standardize()\n# === Output Paths ===\nALPHA_OUTPUT_PATH = \"outputs/alpha_factors.csv\"\n#PLOT_OUTPUT_DIR = \"outputs/\"",
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "STANDARDIZE_FEATURES",
+        "kind": 5,
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "peekOfCode": "STANDARDIZE_FEATURES = True  # set to False to skip rolling_standardize()\n# === Output Paths ===\nALPHA_OUTPUT_PATH = \"outputs/alpha_factors.csv\"\n#PLOT_OUTPUT_DIR = \"outputs/\"",
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "ALPHA_OUTPUT_PATH",
+        "kind": 5,
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "peekOfCode": "ALPHA_OUTPUT_PATH = \"outputs/alpha_factors.csv\"\n#PLOT_OUTPUT_DIR = \"outputs/\"",
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "#PLOT_OUTPUT_DIR",
+        "kind": 5,
+        "importPath": "configs.config",
+        "description": "configs.config",
+        "peekOfCode": "#PLOT_OUTPUT_DIR = \"outputs/\"",
+        "detail": "configs.config",
+        "documentation": {}
+    },
+    {
+        "label": "start_date",
+        "kind": 5,
+        "importPath": "data.download_vvix_and_vix",
+        "description": "data.download_vvix_and_vix",
+        "peekOfCode": "start_date = \"2014-01-01\"\nend_date = \"2025-06-06\"\n# Download VIX and VVIX\ntickers = ['^VIX', '^VVIX']\ndata = yf.download(tickers, start=start_date, end=end_date)['Close']\n# Rename columns for clarity\ndata.columns = ['VIX', 'VVIX']\n# Drop missing values\ndata.dropna(inplace=True)\n# Preview data",
+        "detail": "data.download_vvix_and_vix",
+        "documentation": {}
+    },
+    {
+        "label": "end_date",
+        "kind": 5,
+        "importPath": "data.download_vvix_and_vix",
+        "description": "data.download_vvix_and_vix",
+        "peekOfCode": "end_date = \"2025-06-06\"\n# Download VIX and VVIX\ntickers = ['^VIX', '^VVIX']\ndata = yf.download(tickers, start=start_date, end=end_date)['Close']\n# Rename columns for clarity\ndata.columns = ['VIX', 'VVIX']\n# Drop missing values\ndata.dropna(inplace=True)\n# Preview data\nprint(data.tail())",
+        "detail": "data.download_vvix_and_vix",
+        "documentation": {}
+    },
+    {
+        "label": "tickers",
+        "kind": 5,
+        "importPath": "data.download_vvix_and_vix",
+        "description": "data.download_vvix_and_vix",
+        "peekOfCode": "tickers = ['^VIX', '^VVIX']\ndata = yf.download(tickers, start=start_date, end=end_date)['Close']\n# Rename columns for clarity\ndata.columns = ['VIX', 'VVIX']\n# Drop missing values\ndata.dropna(inplace=True)\n# Preview data\nprint(data.tail())\n# Optional: Save to CSV\ndata.to_csv(\"vix_vvix_data.csv\")",
+        "detail": "data.download_vvix_and_vix",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "data.download_vvix_and_vix",
+        "description": "data.download_vvix_and_vix",
+        "peekOfCode": "data = yf.download(tickers, start=start_date, end=end_date)['Close']\n# Rename columns for clarity\ndata.columns = ['VIX', 'VVIX']\n# Drop missing values\ndata.dropna(inplace=True)\n# Preview data\nprint(data.tail())\n# Optional: Save to CSV\ndata.to_csv(\"vix_vvix_data.csv\")",
+        "detail": "data.download_vvix_and_vix",
+        "documentation": {}
+    },
+    {
+        "label": "data.columns",
+        "kind": 5,
+        "importPath": "data.download_vvix_and_vix",
+        "description": "data.download_vvix_and_vix",
+        "peekOfCode": "data.columns = ['VIX', 'VVIX']\n# Drop missing values\ndata.dropna(inplace=True)\n# Preview data\nprint(data.tail())\n# Optional: Save to CSV\ndata.to_csv(\"vix_vvix_data.csv\")",
+        "detail": "data.download_vvix_and_vix",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_fama_macbeth_data",
+        "kind": 2,
+        "importPath": "src.models.archived.fama_macbeth",
+        "description": "src.models.archived.fama_macbeth",
+        "peekOfCode": "def prepare_fama_macbeth_data(\n    equity_X: pd.DataFrame,\n    targets: pd.DataFrame,\n    equity_etfs: List[str],\n    drop_non_relevant_momentum: bool = True\n) -> Tuple[pd.DataFrame, pd.DataFrame, pd.Series]:\n    \"\"\"\n    Prepares data for Fama-MacBeth regression by aligning feature and target dates,\n    filtering ETF targets, and constructing a panel dataset.\n    Parameters:",
+        "detail": "src.models.archived.fama_macbeth",
+        "documentation": {}
+    },
+    {
+        "label": "run_fama_macbeth",
+        "kind": 2,
+        "importPath": "src.models.archived.fama_macbeth",
+        "description": "src.models.archived.fama_macbeth",
+        "peekOfCode": "def run_fama_macbeth(X, y, dates, etfs):\n    \"\"\"\n    Run Fama-MacBeth two-pass regression.\n    Parameters:\n        X (DataFrame): Feature matrix (MultiIndex: Date, ETF)\n        y (Series): Target returns (MultiIndex: Date, ETF)\n        dates (Index): Unique sorted dates\n        etfs (List[str]): List of ETF tickers\n    Returns:\n        lambda_df (DataFrame): Time series of factor premia (lambda_t)",
+        "detail": "src.models.archived.fama_macbeth",
+        "documentation": {}
+    },
+    {
+        "label": "plot_predicted_vs_actual",
+        "kind": 2,
+        "importPath": "src.models.archived.fama_macbeth",
+        "description": "src.models.archived.fama_macbeth",
+        "peekOfCode": "def plot_predicted_vs_actual(y_true, y_pred, title=\"Predicted vs Actual Returns\"):\n    plt.figure(figsize=(6, 6))\n    sns.scatterplot(x=y_true, y=y_pred, alpha=0.5)\n    plt.plot([y_true.min(), y_true.max()], [y_true.min(), y_true.max()], 'r--')\n    plt.xlabel(\"Actual Return\")\n    plt.ylabel(\"Predicted Return\")\n    plt.title(title)\n    plt.grid(True)\n    plt.tight_layout()\n    plt.show()",
+        "detail": "src.models.archived.fama_macbeth",
+        "documentation": {}
+    },
+    {
+        "label": "plot_cumulative_returns",
+        "kind": 2,
+        "importPath": "src.models.archived.fama_macbeth",
+        "description": "src.models.archived.fama_macbeth",
+        "peekOfCode": "def plot_cumulative_returns(predicted_returns_df, title=\"Cumulative Return of Strategy\"):\n    cum_returns = (1 + predicted_returns_df).cumprod()\n    plt.figure(figsize=(10, 4))\n    for col in cum_returns.columns:\n        plt.plot(cum_returns[col], label=col)\n    plt.title(title)\n    plt.xlabel(\"Date\")\n    plt.ylabel(\"Cumulative Return\")\n    plt.legend()\n    plt.grid(True)",
+        "detail": "src.models.archived.fama_macbeth",
+        "documentation": {}
+    },
+    {
+        "label": "plot_factor_premia_over_time",
+        "kind": 2,
+        "importPath": "src.models.archived.fama_macbeth",
+        "description": "src.models.archived.fama_macbeth",
+        "peekOfCode": "def plot_factor_premia_over_time(lambda_df):\n    plt.figure(figsize=(12, 6))\n    for col in lambda_df.columns:\n        plt.plot(lambda_df.index, lambda_df[col], label=col)\n    plt.title(\"Time-Varying Factor Premia (λₜ)\")\n    plt.xlabel(\"Date\")\n    plt.ylabel(\"Factor Premium\")\n    plt.legend()\n    plt.grid(True)\n    plt.tight_layout()",
+        "detail": "src.models.archived.fama_macbeth",
+        "documentation": {}
+    },
+    {
+        "label": "train_xgboost_regressor",
+        "kind": 2,
+        "importPath": "src.models.archived.xgboost_trainer_v0",
+        "description": "src.models.archived.xgboost_trainer_v0",
+        "peekOfCode": "def train_xgboost_regressor(panel_df, split_date=DEFAULT_SPLIT_DATE):\n    \"\"\"\n    Train and evaluate XGBoostRegressor on ETF panel data.\n    Parameters:\n        panel_df (pd.DataFrame): ETF panel DataFrame\n        split_date (str): Date to split in-sample and out-of-sample sets\n    Returns:\n        dict: Mapping from ETF to trained model\n    \"\"\"\n    print(\"=== Loading Data ===\")",
+        "detail": "src.models.archived.xgboost_trainer_v0",
+        "documentation": {}
+    },
+    {
+        "label": "objective",
+        "kind": 2,
+        "importPath": "src.models.archived.xgboost_trainer_v1",
+        "description": "src.models.archived.xgboost_trainer_v1",
+        "peekOfCode": "def objective(trial, X_train, y_train, X_valid, y_valid):\n    \"\"\"Optuna objective function for hyperparameter tuning.\"\"\"\n    params = {\n        \"learning_rate\": trial.suggest_float(\"learning_rate\", 0.01, 0.3),\n        \"max_depth\": trial.suggest_int(\"max_depth\", 3, 10),\n        \"min_child_weight\": trial.suggest_int(\"min_child_weight\", 1, 10),\n        \"subsample\": trial.suggest_float(\"subsample\", 0.5, 1.0),\n        \"colsample_bytree\": trial.suggest_float(\"colsample_bytree\", 0.5, 1.0),\n        \"n_estimators\": trial.suggest_int(\"n_estimators\", 50, 500),\n        \"reg_alpha\": trial.suggest_float(\"reg_alpha\", 0, 1.0),",
+        "detail": "src.models.archived.xgboost_trainer_v1",
+        "documentation": {}
+    },
+    {
+        "label": "train_xgboost_regressor",
+        "kind": 2,
+        "importPath": "src.models.archived.xgboost_trainer_v1",
+        "description": "src.models.archived.xgboost_trainer_v1",
+        "peekOfCode": "def train_xgboost_regressor(panel_df, split_date=DEFAULT_SPLIT_DATE):\n    \"\"\"Train per-ETF XGBoostRegressor using Optuna tuning and export model, logs, and predictions.\"\"\"\n    print(\"=== Loading Data ===\")\n    df = panel_df.copy()\n    df = df.drop(columns=[\"Unnamed: 0\"], errors=\"ignore\")\n    assert \"Date\" in df.columns and \"ETF\" in df.columns and \"target\" in df.columns\n    df[\"Date\"] = pd.to_datetime(df[\"Date\"])\n    print(\"✅ Input shape:\", df.shape)\n    os.makedirs(PLOT_OUTPUT_DIR, exist_ok=True)\n    os.makedirs(MODEL_OUTPUT_DIR, exist_ok=True)",
+        "detail": "src.models.archived.xgboost_trainer_v1",
+        "documentation": {}
+    },
+    {
+        "label": "objective",
+        "kind": 2,
+        "importPath": "src.models.xgboost_trainer",
+        "description": "src.models.xgboost_trainer",
+        "peekOfCode": "def objective(trial, X_train, y_train, X_valid, y_valid):\n    \"\"\"Optuna objective function for hyperparameter tuning.\"\"\"\n    params = {\n        \"learning_rate\": trial.suggest_float(\"learning_rate\", 0.01, 0.3),\n        \"max_depth\": trial.suggest_int(\"max_depth\", 3, 10),\n        \"min_child_weight\": trial.suggest_int(\"min_child_weight\", 1, 10),\n        \"subsample\": trial.suggest_float(\"subsample\", 0.5, 1.0),\n        \"colsample_bytree\": trial.suggest_float(\"colsample_bytree\", 0.5, 1.0),\n        \"n_estimators\": trial.suggest_int(\"n_estimators\", 50, 500),\n        \"reg_alpha\": trial.suggest_float(\"reg_alpha\", 0, 1.0),",
+        "detail": "src.models.xgboost_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "filter_features",
+        "kind": 2,
+        "importPath": "src.models.xgboost_trainer",
+        "description": "src.models.xgboost_trainer",
+        "peekOfCode": "def filter_features(columns, etf):\n    \"\"\"Return only macro/factor features and return lags for the given ETF.\"\"\"\n    selected = []\n    for col in columns:\n        if \"_ret_lag\" in col:\n            if col.startswith(etf):\n                selected.append(col)\n        else:\n            selected.append(col)\n    return selected",
+        "detail": "src.models.xgboost_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "train_xgboost_regressor",
+        "kind": 2,
+        "importPath": "src.models.xgboost_trainer",
+        "description": "src.models.xgboost_trainer",
+        "peekOfCode": "def train_xgboost_regressor(panel_df, split_date=DEFAULT_SPLIT_DATE):\n    \"\"\"Train per-ETF XGBoostRegressor using Optuna tuning and export model, logs, and predictions.\"\"\"\n    print(\"=== Loading Data ===\")\n    df = panel_df.copy()\n    df = df.drop(columns=[\"Unnamed: 0\"], errors=\"ignore\")\n    assert \"Date\" in df.columns and \"ETF\" in df.columns and \"target\" in df.columns\n    df[\"Date\"] = pd.to_datetime(df[\"Date\"])\n    print(\"✅ Input shape:\", df.shape)\n    os.makedirs(PLOT_OUTPUT_DIR, exist_ok=True)\n    os.makedirs(MODEL_OUTPUT_DIR, exist_ok=True)",
+        "detail": "src.models.xgboost_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "load_etf_prices",
+        "kind": 2,
+        "importPath": "src.data_loader",
+        "description": "src.data_loader",
+        "peekOfCode": "def load_etf_prices(path: str) -> pd.DataFrame:\n    \"\"\"\n    Load daily close prices for all ETFs.\n    \"\"\"\n    df = pd.read_csv(path, parse_dates=['Date'])\n    df = df[['Date', 'Ticker', 'Close']]\n    return df.pivot(index='Date', columns='Ticker', values='Close').sort_index()\ndef load_fama_french_factors(path: str) -> pd.DataFrame:\n    \"\"\"\n    Load Fama-French and QMJ factors.",
+        "detail": "src.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_fama_french_factors",
+        "kind": 2,
+        "importPath": "src.data_loader",
+        "description": "src.data_loader",
+        "peekOfCode": "def load_fama_french_factors(path: str) -> pd.DataFrame:\n    \"\"\"\n    Load Fama-French and QMJ factors.\n    \"\"\"\n    df = pd.read_csv(path, parse_dates=['Date'])\n    df = df.dropna()\n    df = df.set_index('Date').sort_index()\n    return df\ndef load_volatility_indices(path: str) -> pd.DataFrame:\n    \"\"\"",
+        "detail": "src.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_volatility_indices",
+        "kind": 2,
+        "importPath": "src.data_loader",
+        "description": "src.data_loader",
+        "peekOfCode": "def load_volatility_indices(path: str) -> pd.DataFrame:\n    \"\"\"\n    Load VIX and VVIX.\n    \"\"\"\n    df = pd.read_csv(path, parse_dates=['Date'])\n    return df.set_index('Date').sort_index()\ndef load_macro_indicators(path: str) -> pd.DataFrame:\n    \"\"\"\n    Load wide-format macro indicators (leading indicators).\n    Forward-fill missing values.",
+        "detail": "src.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_macro_indicators",
+        "kind": 2,
+        "importPath": "src.data_loader",
+        "description": "src.data_loader",
+        "peekOfCode": "def load_macro_indicators(path: str) -> pd.DataFrame:\n    \"\"\"\n    Load wide-format macro indicators (leading indicators).\n    Forward-fill missing values.\n    \"\"\"\n    df = pd.read_csv(path, parse_dates=['Date'])\n    df = df.set_index('Date').sort_index()\n    return df.ffill()\ndef merge_all_factors(etf_prices: pd.DataFrame,\n                      fama_french: pd.DataFrame,",
+        "detail": "src.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "merge_all_factors",
+        "kind": 2,
+        "importPath": "src.data_loader",
+        "description": "src.data_loader",
+        "peekOfCode": "def merge_all_factors(etf_prices: pd.DataFrame,\n                      fama_french: pd.DataFrame,\n                      vix: pd.DataFrame,\n                      macro: pd.DataFrame) -> pd.DataFrame:\n    \"\"\"\n    Merge Fama-French factors, VIX data, and macroeconomic indicators.\n    Keep only the common date range across all dataframes.\n    Forward fill missing data, then drop rows still containing NAs.\n    Print out diagnostic information along the way.\n    \"\"\"",
+        "detail": "src.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "rolling_standardize",
+        "kind": 2,
+        "importPath": "src.feature_engineering",
+        "description": "src.feature_engineering",
+        "peekOfCode": "def rolling_standardize(df: pd.DataFrame, window: int = ROLLING_STANDARDIZE_WINDOW) -> pd.DataFrame:\n    \"\"\"\n    Apply rolling z-score standardization to each feature column.\n    Uses past `window` values (with shift) to prevent lookahead bias.\n    \"\"\"\n    rolling_mean = df.shift(1).rolling(window=window).mean()\n    rolling_std = df.shift(1).rolling(window=window).std()\n    return (df - rolling_mean) / rolling_std\ndef add_momentum_features(return_df: pd.DataFrame, lags=MOMENTUM_LAGS) -> pd.DataFrame:\n    \"\"\"",
+        "detail": "src.feature_engineering",
+        "documentation": {}
+    },
+    {
+        "label": "add_momentum_features",
+        "kind": 2,
+        "importPath": "src.feature_engineering",
+        "description": "src.feature_engineering",
+        "peekOfCode": "def add_momentum_features(return_df: pd.DataFrame, lags=MOMENTUM_LAGS) -> pd.DataFrame:\n    \"\"\"\n    Generate momentum features by lagging each return column.\n    Produces columns like '<TICKER>_ret_lag1', etc.\n    \"\"\"\n    features = []\n    for lag in lags:\n        lagged = return_df.shift(lag).copy()\n        lagged.columns = [f\"{col}_lag{lag}\" for col in return_df.columns]\n        features.append(lagged)",
+        "detail": "src.feature_engineering",
+        "documentation": {}
+    },
+    {
+        "label": "get_equity_features",
+        "kind": 2,
+        "importPath": "src.feature_engineering",
+        "description": "src.feature_engineering",
+        "peekOfCode": "def get_equity_features(merged_factors: pd.DataFrame, return_df: pd.DataFrame) -> pd.DataFrame:\n    \"\"\"\n    Features for equity ETFs: factor exposures, sentiment, macro, and momentum.\n    \"\"\"\n    macro = merged_factors[[\n        \"MKT-Rf\", \"SMB\", \"HML\", \"UMD\", \"QMJ\",\n        \"VIX\", \"VVIX\",\n        \"Consumer_Confidence_Index\",\n        \"Unemployment_Initial_Claims\"\n    ]].copy()",
+        "detail": "src.feature_engineering",
+        "documentation": {}
+    },
+    {
+        "label": "get_fixed_income_features",
+        "kind": 2,
+        "importPath": "src.feature_engineering",
+        "description": "src.feature_engineering",
+        "peekOfCode": "def get_fixed_income_features(merged_factors: pd.DataFrame) -> pd.DataFrame:\n    \"\"\"\n    Features for fixed income ETFs: rates, spreads, macro.\n    \"\"\"\n    selected = merged_factors[[\n        \"10Y_Yield_Constant_Maturity\",\n        \"20Y_Yield_Constant_Maturity\",\n        \"Building_Permits_Contribution\",\n        \"Consumer_Confidence_Expectations\",\n        \"Unemployment_Initial_Claims\"",
+        "detail": "src.feature_engineering",
+        "documentation": {}
+    },
+    {
+        "label": "get_commodity_features",
+        "kind": 2,
+        "importPath": "src.feature_engineering",
+        "description": "src.feature_engineering",
+        "peekOfCode": "def get_commodity_features(merged_factors: pd.DataFrame, return_df: pd.DataFrame) -> pd.DataFrame:\n    \"\"\"\n    Features for commodity ETFs: trend, macro, sentiment, and momentum.\n    \"\"\"\n    macro = merged_factors[[\n        'VIX', 'VVIX',\n        'PMI_Manufacturing_Global',\n        'PMI_Services_Business_Activity_US'\n    ]].copy()\n    macro = rolling_standardize(macro)",
+        "detail": "src.feature_engineering",
+        "documentation": {}
+    },
+    {
+        "label": "generate_all_features",
+        "kind": 2,
+        "importPath": "src.feature_engineering",
+        "description": "src.feature_engineering",
+        "peekOfCode": "def generate_all_features(merged, returns, targets):\n    \"\"\"\n    Runs all feature engineering steps and performs diagnostics.\n    Returns aligned equity, fixed income, and commodity features, and aligned targets.\n    \"\"\"\n    # === Run individual feature generators ===\n    equity_X = get_equity_features(merged, returns)\n    fixed_income_X = get_fixed_income_features(merged)\n    commodity_X = get_commodity_features(merged, returns)\n    # === Diagnostics: Shape ===",
+        "detail": "src.feature_engineering",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_xgboost_data",
+        "kind": 2,
+        "importPath": "src.prepare_xgboost_data",
+        "description": "src.prepare_xgboost_data",
+        "peekOfCode": "def prepare_xgboost_data(\n    equity_X_path: str,\n    targets_path: str,\n    equity_etfs: list\n) -> pd.DataFrame:\n    \"\"\"\n    Prepares merged panel data for XGBoost training.\n    Adds detailed logging to verify data consistency.\n    \"\"\"\n    print(\"=== Loading CSVs ===\")",
+        "detail": "src.prepare_xgboost_data",
+        "documentation": {}
+    },
+    {
+        "label": "extract_close_prices",
+        "kind": 2,
+        "importPath": "src.return_calculator",
+        "description": "src.return_calculator",
+        "peekOfCode": "def extract_close_prices(df: pd.DataFrame) -> pd.DataFrame:\n    \"\"\"\n    Converts long-format ETF price data to wide format using Close prices.\n    Input: DataFrame with ['Date', 'Ticker', 'Close'] columns\n    Output: Wide-format DataFrame with Date index and Ticker columns\n    \"\"\"\n    df = df[['Date', 'Ticker', 'Close']].copy()\n    df['Date'] = pd.to_datetime(df['Date'])\n    wide_df = df.pivot(index='Date', columns='Ticker', values='Close').sort_index()\n    return wide_df",
+        "detail": "src.return_calculator",
+        "documentation": {}
+    },
+    {
+        "label": "compute_log_returns",
+        "kind": 2,
+        "importPath": "src.return_calculator",
+        "description": "src.return_calculator",
+        "peekOfCode": "def compute_log_returns(price_df: pd.DataFrame) -> pd.DataFrame:\n    \"\"\"\n    Compute daily log returns for each ETF in wide-format price DataFrame.\n    Output columns will be named '<TICKER>_ret'.\n    \"\"\"\n    log_returns = np.log(price_df / price_df.shift(1)).dropna()\n    log_returns.columns = [f\"{col}_ret\" for col in log_returns.columns]\n    return log_returns\ndef generate_forward_returns(return_df: pd.DataFrame, horizon: int = 1) -> pd.DataFrame:\n    \"\"\"",
+        "detail": "src.return_calculator",
+        "documentation": {}
+    },
+    {
+        "label": "generate_forward_returns",
+        "kind": 2,
+        "importPath": "src.return_calculator",
+        "description": "src.return_calculator",
+        "peekOfCode": "def generate_forward_returns(return_df: pd.DataFrame, horizon: int = 1) -> pd.DataFrame:\n    \"\"\"\n    Generate forward-shifted returns for prediction targets.\n    Input: return_df with columns '<TICKER>_ret'\n    Output: DataFrame with '<TICKER>_target' columns\n    \"\"\"\n    forward_returns = return_df.shift(-horizon)\n    forward_returns.columns = [col.replace(\"_ret\", \"\") + \"_target\" for col in forward_returns.columns]\n    return forward_returns.dropna()\ndef save_returns(return_df: pd.DataFrame, path: str):",
+        "detail": "src.return_calculator",
+        "documentation": {}
+    },
+    {
+        "label": "save_returns",
+        "kind": 2,
+        "importPath": "src.return_calculator",
+        "description": "src.return_calculator",
+        "peekOfCode": "def save_returns(return_df: pd.DataFrame, path: str):\n    \"\"\"\n    Save a return DataFrame (either raw or shifted) to a CSV file.\n    \"\"\"\n    os.makedirs(os.path.dirname(path), exist_ok=True)\n    return_df.to_csv(path, index=True)",
+        "detail": "src.return_calculator",
+        "documentation": {}
+    }
+]
